@@ -1,3 +1,9 @@
+A course landing page for https://app.younglabs.in/ build with react and TailwindCSS.
+
+# Screenshots
+
+![Screenshot](screencapture-young-lab-innovation-landingpage.png?raw=true "Optional Title")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
