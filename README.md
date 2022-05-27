@@ -1,3 +1,5 @@
+# Young Lab Innovation Landingpage
+
 A course landing page for https://app.younglabs.in/ build with react and TailwindCSS.
 
 # Screenshots
